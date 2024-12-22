@@ -1,0 +1,26 @@
+# Composer dependencies
+/vendor
+
+# Node.js dependencies
+/node_modules
+
+# Environment and configuration files
+.env
+.env.*.local
+
+# Debug logs
+*.log
+
+# Temporary files and directories
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# PhpStorm settings (optional, if you don’t want to include IDE-specific configs)
+.idea/
+
+# Cache
+cache/
+*.cache
