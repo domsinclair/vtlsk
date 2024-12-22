@@ -24,3 +24,9 @@ Thumbs.db
 # Cache
 cache/
 *.cache
+
+# specific tailwind config files
+ package.json
+ package-lock.json
+ tailwind.config.js
+ tailwind.css
