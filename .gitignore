@@ -1,5 +1,5 @@
 # Composer dependencies
-/vendor
+/assets/vendor
 
 # Node.js dependencies
 /node_modules
